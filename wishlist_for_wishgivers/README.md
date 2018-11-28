@@ -6,5 +6,6 @@ Once cloned and ruby and rails are installed, run `bundle install` (if you don't
 Once that is complete, start your local server by running:
 `bin/rails s -p <choose a 4 digit number for your port>` i.e `bin/rails s -p 3000`, or `bundle exec rails s -p 3000`  
 
-#####H5
+##### H5 Hooray, you're one step closer to checking out our awesome app!
+
 Now point your browser to `localhost:3000` (or whatever you put for your four digit port number), and play. Hopefully this will get better as time goes by!
