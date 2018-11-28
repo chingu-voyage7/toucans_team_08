@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails project. In order to get this running in your local environment, you must have ruby (2.3.7 at the time of writing) and rails (5.1.6.1 at the time of writing) installed (Google how to install rails for your OS if it's not installed -- sorry Windows users.) 
 
-Things you may want to cover:
+Once cloned and ruby and rails are installed run `bundle install` (if you don't have Bundler (or get an error) installed run `gem install bundler`)
+Once that is complete, start your local server by running:
+`bin/rails s -p <choose a 4 digit number for your port>` i.e `bin/rails s -p 3000`, or `bundle exec rails s -p 3000`  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##### H5
+Now point your browser to `localhost:3000` (or whatever you put for your four digit port number), and play. Hopefully this will get better as time goes by!
