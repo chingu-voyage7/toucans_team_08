@@ -1,5 +1,5 @@
 # Setup at the time of writing 
-### H5 (this is a living, breathing document and will be updated regularly as we grow)
+##### H5 (this is a living, breathing document and will be updated regularly as we grow)
 
 This is a Ruby on Rails project. In order to get this running in your local environment, you must have ruby (2.3.7 at the time of writing) and rails (5.1.6.1 at the time of writing) installed. (Google how to install rails for your OS if it's not installed -- sorry Windows users.) 
 
